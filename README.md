@@ -1,3 +1,4 @@
-# amolnikam
+# studenthub
 This is first Git Repository
-author - amol nikam
+<br>
+Author - Amol Nikam
